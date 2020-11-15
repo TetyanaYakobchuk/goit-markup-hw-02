@@ -2,12 +2,13 @@ ul {
   text-decoration: none;
 }
 .logo {
-  font-family: Oleo Script;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 26px;
 }
 .web-logo {
+  font-family: "Roboto", sans-serif;
   color: #2196f3;
 }
 
