@@ -1,4 +1,17 @@
-body {
-  background-color: #2a2a2a;
-  color: #bbb;
+ul {
+  text-decoration: none;
+}
+.logo {
+  font-family: Oleo Script;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+}
+.web-logo {
+  color: #2196f3;
+}
+
+.main-menu:hover {
+  color: #2196f3;
+  text-decoration: none;
 }
