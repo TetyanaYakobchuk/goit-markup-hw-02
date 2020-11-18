@@ -71,8 +71,9 @@ body {
 
 .hero-section {
   background: #2f303a;
-  width: 1600px;
-  height: 600px;
+  width: 100%;
+  /* width: 1600px;
+  height: 600px;*/
 }
 .hero-title {
   color: #ffffff;
@@ -134,7 +135,10 @@ body {
 }
 .footer {
   background: #2f303a;
+  margin-bottom: 0;
+  width: 100%;
 }
+
 .studio-footer {
   font-family: Raleway;
   font-weight: bold;
@@ -157,7 +161,7 @@ body {
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
 }
-
+/*------------------PORTFOLIO---------------------*/
 .button-portfolio {
   font-family: Roboto;
   font-weight: 500;
